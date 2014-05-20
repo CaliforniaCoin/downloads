@@ -2,7 +2,7 @@ downloads
 =========
 
 ## Wallet binaries/daemons
-[Windows-CACWin.zip](https://mega.co.nz/#!GFBXBJwA!UHC2N2UZ9xTeS9GD4jCI845kMvfeXJClIs06Nz9z4_g)
+[Windows-CACWin.zip](https://mega.co.nz/#!vUZzGD6B!e8VP6dqZ5cKnlHjB6DfHzOboRp7psRKKk8IDbCyj120)
 
 [Windows-CACWin.zip Wallet only](http://www.mediafire.com/download/jm99m7e5iyasb7a/CACWin.zip)
 
